@@ -11,3 +11,8 @@ Specify the filename of the image.
 # Requirements
 - numpy
 - matplotlib
+
+
+
+
+(warning, code is very ugly and quckly slapped together)
